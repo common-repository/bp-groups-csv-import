@@ -1,0 +1,17 @@
+- Initial Release.
+Import groups from CSV file
+
+-1.0.1
+Link to sample file in dashboard
+
+-1.0.2
+Issue fixed of seven users registered
+
+-1.0.3
+Skip the existing groups and create new groups
+
+-1.0.4
+Update according to the latest version of WordPress and BuddyPress
+
+-1.0.5
+Update according to the latest version of WordPress and BuddyPress
